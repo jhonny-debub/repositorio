@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|c:\\users\\admin\\downloads\\programacion web 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|solutionrelative:proyecto_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|c:\\users\\admin\\downloads\\programacion web 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|solutionrelative:proyecto_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|c:\\users\\admin\\downloads\\programacion web 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|solutionrelative:proyecto_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|c:\\users\\admin\\downloads\\programacion web 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6661A073-FB9B-48F0-94C6-1F96F3E95246}|proyecto_mvc\\proyecto_mvc.csproj|solutionrelative:proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "proyecto_mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "proyecto_mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T23:22:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "proyecto_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "proyecto_mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T23:22:49.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "proyecto_mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "proyecto_mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T23:22:49.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap5.min.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeDocumentMoniker": "proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\PROGRAMACION WEB 2\\trabajo 1\\proyecto_mvc\\proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "RelativeToolTip": "proyecto_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap5.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANc0AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-14T23:22:49.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

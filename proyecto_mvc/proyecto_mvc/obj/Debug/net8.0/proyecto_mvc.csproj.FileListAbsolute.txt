@@ -1,0 +1,60 @@
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.staticwebassets.runtime.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.exe
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.deps.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.runtimeconfig.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.dll
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.pdb
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.AssemblyInfoInputs.cache
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.AssemblyInfo.cs
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.csproj.CoreCompileInputs.cache
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.RazorAssemblyInfo.cache
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.RazorAssemblyInfo.cs
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.proyecto_mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.proyecto_mvc.props
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.proyecto_mvc.props
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.proyecto_mvc.props
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\bundle\proyecto_mvc.styles.css
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\projectbundle\proyecto_mvc.bundle.scp.css
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.dll
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\refint\proyecto_mvc.dll
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.pdb
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.genruntimeconfig.cache
+C:\Users\leonel\source\repos\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\ref\proyecto_mvc.dll
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.exe
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.deps.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.runtimeconfig.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.dll
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\bin\Debug\net8.0\proyecto_mvc.pdb
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.proyecto_mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.proyecto_mvc.props
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.proyecto_mvc.props
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.proyecto_mvc.props
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\bundle\proyecto_mvc.styles.css
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\scopedcss\projectbundle\proyecto_mvc.bundle.scp.css
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.dll
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\refint\proyecto_mvc.dll
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.pdb
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\proyecto_mvc.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\PROGRAMACION WEB 2\trabajo 1\proyecto_mvc\proyecto_mvc\obj\Debug\net8.0\ref\proyecto_mvc.dll
